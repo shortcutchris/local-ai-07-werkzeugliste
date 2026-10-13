@@ -1,0 +1,26 @@
+Einträge gesamt: 30, davon lokal: 28
+
+Büro-Laptop mit Windows, ohne Grafikkarte
+  dokumentiert: 3  boots / ai-bootstrap, Oh My Pi, Pi
+  davon Modell betreiben: 1  boots / ai-bootstrap
+  unbekannt (leere Felder): 6  DeepSeek Harness, Inference Atlas, llama-benchy, Matt Pocock's skills, RigMark, tool-eval-bench
+
+Windows-Workstation mit NVIDIA-Karte
+  dokumentiert: 4  boots / ai-bootstrap, Oh My Pi, Pi, Strata
+  davon Modell betreiben: 2  boots / ai-bootstrap, Strata
+  unbekannt (leere Felder): 6  DeepSeek Harness, Inference Atlas, llama-benchy, Matt Pocock's skills, RigMark, tool-eval-bench
+
+Mac mit Apple-Chip
+  dokumentiert: 10  boots / ai-bootstrap, DwarfStar / ds4, MCDMA, mlx-serve, Oh My Pi, oMLX, Pi, Spark Tools, Splash, TensorFold
+  davon Modell betreiben: 6  boots / ai-bootstrap, DwarfStar / ds4, mlx-serve, oMLX, Splash, TensorFold
+  unbekannt (leere Felder): 6  DeepSeek Harness, Inference Atlas, llama-benchy, Matt Pocock's skills, RigMark, tool-eval-bench
+
+DGX Spark
+  dokumentiert: 17  boots / ai-bootstrap, DGX Spark Fan Control, DGX Spark Memory Saver, DwarfStar / ds4, kindling-spark-os, MCDMA, Oh My Pi, Pi, Spark Bench, Spark Doctor, Spark Tools, spark-vllm-docker, SparkDash, SparkPilot, sparkrun, TandemLLM, TensorFold
+  davon Modell betreiben: 7  boots / ai-bootstrap, DwarfStar / ds4, spark-vllm-docker, SparkPilot, sparkrun, TandemLLM, TensorFold
+  unbekannt (leere Felder): 7  DeepSeek Harness, Inference Atlas, llama-benchy, Matt Pocock's skills, mentat, RigMark, tool-eval-bench
+
+Nur für DGX Spark eingetragen: 9  DGX Spark Fan Control, DGX Spark Memory Saver, kindling-spark-os, Spark Bench, Spark Doctor, spark-vllm-docker, SparkPilot, sparkrun, TandemLLM
+Benannte Einschränkungen: 68
+Quellenangaben: 38
+Ohne klare Lizenz: boots / ai-bootstrap, Spark Bench
