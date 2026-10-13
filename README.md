@@ -1,6 +1,6 @@
 # local-ai-07-werkzeugliste
 
-Demo zu **Local AI, Ausgabe 07: „Lokal heißt nicht offline"**. Zählt, welche Einträge der Werkzeugliste
+Demo zu **Local AI, Ausgabe 07: „Dein Einstieg in lokale KI?"**. Zählt, welche Einträge der Werkzeugliste
 [awesome-local-ai](https://github.com/SeraphimSerapis/awesome-local-ai) für vier typische Rechner
 ausdrücklich dokumentiert sind.
 
